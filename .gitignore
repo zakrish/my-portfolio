@@ -1,2 +1,13 @@
 node_modules
 css
+
+# Python virtual environment
+study_to_earn/venv/
+study_to_earn/__pycache__/
+study_to_earn/**/__pycache__/
+study_to_earn/*.pyc
+study_to_earn/**/*.pyc
+study_to_earn/.env
+study_to_earn/staticfiles/
+study_to_earn/media/
+study_to_earn/db.sqlite3
